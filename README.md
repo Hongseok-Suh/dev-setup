@@ -11,3 +11,6 @@ ZSH_THEME="agnoster"
 
 ## Install Fonts
 [Powerline Fonts](https://github.com/powerline/fonts)
+
+## BTT
+[Golden Choas-BTT](https://goldenchaos.net/goldenchaos-btt.html)
